@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Clock from 
+
 /**
  * first, import the clock component that is being exported as default on the Clock.js file
  * (the same way you did on exercise 03
